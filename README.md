@@ -23,6 +23,6 @@ Configuration is stored in app.config
 
 ---
 *NOTE: This tool is just publication of my older work - so it uses a little bit older version of iTextSharp.*
-
+https://www.c-sharpcorner.com/blogs/digital-signature-using-any-dsc-token-in-c-sharp
 
 
