@@ -1,7 +1,7 @@
 # PdfSign
 Tool to add invisible e-signature to pdf document with iTextSharp library
 
-## Usage
+## UsageCancel changes
 * Import your certificate into windows certstore as **exportable**.
 * Update app.config
 * Sign pdf: `pdfsign.exe mydoc.pfd`
@@ -25,4 +25,4 @@ Configuration is stored in app.config
 *NOTE: This tool is just publication of my older work - so it uses a little bit older version of iTextSharp.*
 https://www.c-sharpcorner.com/blogs/digital-signature-using-any-dsc-token-in-c-sharp
 
-
+https://www.py4u.net/discuss/712398
