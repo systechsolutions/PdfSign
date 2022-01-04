@@ -28,3 +28,4 @@ https://www.c-sharpcorner.com/blogs/digital-signature-using-any-dsc-token-in-c-s
 https://www.py4u.net/discuss/712398
 
 https://stackoverflow.com/questions/59236698/how-to-automatically-enter-the-password-when-signing-in-itextsharp
+https://stackoverflow.com/questions/48450747/windows-randomly-request-smartcard-token-pin-when-multiple-processes-of-my-appli
