@@ -26,3 +26,5 @@ Configuration is stored in app.config
 https://www.c-sharpcorner.com/blogs/digital-signature-using-any-dsc-token-in-c-sharp
 
 https://www.py4u.net/discuss/712398
+
+https://stackoverflow.com/questions/59236698/how-to-automatically-enter-the-password-when-signing-in-itextsharp
